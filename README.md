@@ -48,7 +48,7 @@ This project covers essential tools and practices including Docker, Kubernetes, 
 - Docker
 - Kubernetes (kubectl, minikube, eksctl)
 - AWS CLI
-- Terraform (optional)
+- Terraform
 - Git & GitHub
 
 ---
